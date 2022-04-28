@@ -10,7 +10,6 @@ This is a solution to the [Crowdfunding product page challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
 
@@ -34,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/waldosmuts/crowdfunding-product-page)
-- Live Site URL: [Live Preview](https://snap-intro.netlify.app/)
+- Live Site URL: [Live Preview](https://crowdfund-mastercraft.netlify.app/)
 
 ## My process
 
@@ -46,16 +45,6 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Tailwind](https://tailwindcss.com/) - CSS framework
-
-### What I learned
-
-Dropdown menus and nav-links using React state
-
-```js
-const [showNav, setShowNav] = useState(false)
-const [featuresExpanded, setFeaturesExpanded] = useState(false)
-const [companyExpanded, setCompanyExpanded] = useState(false)
-```
 
 ### Continued development
 
